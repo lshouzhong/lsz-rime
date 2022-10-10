@@ -2,7 +2,11 @@
 
 **由于五笔 86 方案中包含私有码表 ( Win10 1809 内置的 86 五笔码表 )，故此配置仅用于个人学习与交流。**
 
-## 五笔
+## 配置说明
+
+所有方案默认不开启用户词库，有需要的用户需请自行开启。
+
+## 五笔方案
 
 本方案的五笔输入法使用 86 版方案，只有单字，不包含词组。
 
@@ -14,7 +18,7 @@ Rime 官方的 86 五笔词库 [rime-wubi](https://github.com/rime/rime-wubi) �
 
 所以本方案的五笔方案部分将使用此码表。
 
-## 拼音
+## 拼音方案
 
 本方案的拼音输入法使用双拼 ( 自然码 ) 和全拼两种方案，可以自行切换。
 
@@ -25,7 +29,7 @@ Rime 官方的 86 五笔词库 [rime-wubi](https://github.com/rime/rime-wubi) �
 - Rime 官方的袖珍简化字 [rime-pinyin-simp](https://github.com/rime/rime-pinyin-simp) 方案的词库 ( 上游词库为安卓开源项目 )
 - 维基百科中文词条库 https://github.com/felixonmars/fcitx5-pinyin-zhwiki
 
-## 其他
+## 其他方案
 
 英文输入法来源于 easy_en 项目，作者为 [Patricivs](https://github.com/Patricivs)。
 
